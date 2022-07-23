@@ -1,6 +1,8 @@
 # Algarismos em Português
 Pressione um algarismo no teclado maior e ele aparecerá no centro da tela e seu áudio.
 
+![](algarismos.png)
+
 ## Erro
 
 Quando se pressiona qualquer tecla diferente de um algarismo, aparece um áudio indicando um erro.
